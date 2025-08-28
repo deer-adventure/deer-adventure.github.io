@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://deer-adventure.github.io/sitemap.xml
